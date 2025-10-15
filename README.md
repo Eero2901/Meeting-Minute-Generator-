@@ -1,4 +1,4 @@
-# Meeting-Minute-Generator-
+# Meeting-Minute-Generator
 Generates summary for the meeting and provides a downloadable file for it 
 Meeting Minute Generator is a web-based (or desktop, if applicable) tool that automatically summarizes meeting transcripts or notes into concise, well-structured meeting minutes. It extracts key points such as decisions, action items, deadlines, and discussion highlights. The app also provides an option to download the summary as a text or PDF file for easy sharing and documentation.
 
